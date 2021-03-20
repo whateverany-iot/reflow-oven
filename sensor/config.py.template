@@ -1,0 +1,12 @@
+INIT = True
+BOOTSTRAP = True
+LOG = True
+DEBUG = False
+PIP_REQUIREMENTS = ['logging','umqtt.robust']
+WIFI_SSID = 'xxxxxx..'
+WIFI_PASS = 'xxxxxxxx'
+WIFI_GATEWAY = '192.168.1.1'
+MQTT_HOST = '192.168.1.2'
+MQTT_PORT = 1883
+MQTT_USER_ID = 'xxxxxxxx'
+MQTT_API_KEY = 'xxxxxxxx'
